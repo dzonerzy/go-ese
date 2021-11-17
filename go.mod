@@ -1,4 +1,4 @@
-module www.velocidex.com/golang/go-ese
+module github.com/dzonerzy/go-ese
 
 go 1.13
 
